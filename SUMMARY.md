@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [This is the page title.](README.md)
