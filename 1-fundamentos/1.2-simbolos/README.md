@@ -1,9 +1,5 @@
 # 1.2 Símbolos
 
-Sub-capítulos:
-
-
-
 * [1.2.1-pauta-e-partitura.md](1.2.1-pauta-e-partitura.md "mention")
 * [1.2.2-notas.md](1.2.2-notas.md "mention")
 * [1.2.3-claves.md](1.2.3-claves.md "mention")
