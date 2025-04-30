@@ -35,6 +35,7 @@
 * [3.5 Modos](3-sons-em-conjunto/3.5-modos.md)
 * [3.6 Harmonia](3-sons-em-conjunto/3.6-harmonia/README.md)
   * [3.6.1 Tríades](3-sons-em-conjunto/3.6-harmonia/3.6.1-triades.md)
+  * [3.6.2 Acordes de sétima](3-sons-em-conjunto/3.6-harmonia/3.6.2-acordes-de-setima.md)
   * [3.6.3 Baixo contínuo](3-sons-em-conjunto/3.6-harmonia/3.6.3-baixo-continuo.md)
   * [3.6.4 Forma](3-sons-em-conjunto/3.6-harmonia/3.6.4-forma.md)
   * [3.6.5 Cadências](3-sons-em-conjunto/3.6-harmonia/3.6.5-cadencias.md)
