@@ -9,11 +9,9 @@ description: Princípios de ritmo, melodia e harmonia.
 
 
 
-Ler o [prefacio.md](teoria-musical/prefacio.md "mention")
+## Conteúdo
 
-
-
-## Capítulos
+[prefacio.md](teoria-musical/prefacio.md "mention")
 
 ### 1. Fundamentos
 
