@@ -1,5 +1,5 @@
 ---
-description: This is the page description.
+description: Princípios de ritmo, melodia e harmonia.
 ---
 
 # Teoria Musical
@@ -9,10 +9,7 @@ description: This is the page description.
 
 
 
-TODO:
-
-* think about the simplest format for the index.
-* Page group links create a broken reference.
+Ler o [prefacio.md](teoria-musical/prefacio.md "mention")
 
 
 
