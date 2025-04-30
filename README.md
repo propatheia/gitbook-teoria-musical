@@ -4,8 +4,8 @@ description: Princípios de ritmo, melodia e harmonia.
 
 # Teoria Musical
 
-* Portuguese book about music theory.
-* Livro em português sobre teoria musical.
+* Portuguese open-source book about music theory.
+* Livro _open-source_ em português sobre teoria musical.
 
 
 
