@@ -9,6 +9,8 @@ description: Princípios de ritmo, melodia e harmonia.
 
 
 
+Se gosta deste conteúdo gratuito e gostaria de apoiar este trabalho, pode [comprar-me um café](https://buymeacoffee.com/marcoferra). Obrigado!
+
 ## Conteúdo
 
 [prefacio.md](teoria-musical/prefacio.md "mention")
