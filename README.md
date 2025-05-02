@@ -66,6 +66,6 @@ description: Princípios de ritmo, melodia e harmonia.
 
 
 
-Para apoiar este trabalho pode comprar-me um café.
+Para apoiar este trabalho pode comprar-me um café:
 
-<a href="https://buymeacoffee.com/marcoferra" class="button primary">☕️ Buy me a Coffee</a>
+<a href="https://buymeacoffee.com/marcoferra" class="button primary">☕️ Buy me a coffee</a>
