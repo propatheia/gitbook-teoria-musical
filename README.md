@@ -7,10 +7,6 @@ description: Princípios de ritmo, melodia e harmonia.
 * Portuguese open-source book about music theory.
 * Livro _open-source_ em português sobre teoria musical.
 
-
-
-Se gosta deste conteúdo gratuito e gostaria de apoiar este trabalho, pode [comprar-me um café](https://buymeacoffee.com/marcoferra). Obrigado!
-
 ## Conteúdo
 
 [prefacio.md](teoria-musical/prefacio.md "mention")
@@ -67,3 +63,10 @@ Se gosta deste conteúdo gratuito e gostaria de apoiar este trabalho, pode [comp
 ### 4. Palavras finais
 
 [conclusoes.md](4-palavras-finais/conclusoes.md "mention")
+
+
+
+Para apoiar este trabalho pode comprar-me um café.
+
+![](.gitbook/assets/bmc-button.svg)
+
