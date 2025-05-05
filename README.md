@@ -64,8 +64,3 @@ description: Princípios de ritmo, melodia e harmonia.
 
 [conclusoes.md](4-palavras-finais/conclusoes.md "mention")
 
-
-
-Para apoiar este trabalho pode comprar-me um café:
-
-<a href="https://buymeacoffee.com/marcoferra" class="button primary">☕️ Buy me a coffee</a>
