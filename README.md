@@ -13,14 +13,14 @@ description: Princípios de ritmo, melodia e harmonia.
 
 ### 1. Fundamentos
 
-[1.1-som](1-fundamentos/1.1-som/ "mention")
+[1.1-som](1-fundamentos/1.1-som "mention")
 
 * [1.1.1-altura.md](1-fundamentos/1.1-som/1.1.1-altura.md "mention")
 * [1.1.2-intensidade.md](1-fundamentos/1.1-som/1.1.2-intensidade.md "mention")
 * [1.1.3-duracao.md](1-fundamentos/1.1-som/1.1.3-duracao.md "mention")
 * [1.1.4-timbre.md](1-fundamentos/1.1-som/1.1.4-timbre.md "mention")
 
-[1.2-simbolos](1-fundamentos/1.2-simbolos/ "mention")
+[1.2-simbolos](1-fundamentos/1.2-simbolos "mention")
 
 * [1.2.1-pauta-e-partitura.md](1-fundamentos/1.2-simbolos/1.2.1-pauta-e-partitura.md "mention")
 * [1.2.2-notas.md](1-fundamentos/1.2-simbolos/1.2.2-notas.md "mention")
@@ -43,7 +43,7 @@ description: Princípios de ritmo, melodia e harmonia.
 
 [3.3-consonancia-e-dissonancia.md](3-sons-em-conjunto/3.3-consonancia-e-dissonancia.md "mention")
 
-[3.4-escalas](3-sons-em-conjunto/3.4-escalas/ "mention")
+[3.4-escalas](3-sons-em-conjunto/3.4-escalas "mention")
 
 * [3.4.1-escala-maior.md](3-sons-em-conjunto/3.4-escalas/3.4.1-escala-maior.md "mention")
 * [3.4.2-escala-relativa-menor.md](3-sons-em-conjunto/3.4-escalas/3.4.2-escala-relativa-menor.md "mention")
@@ -51,7 +51,7 @@ description: Princípios de ritmo, melodia e harmonia.
 
 [3.5-modos.md](3-sons-em-conjunto/3.5-modos.md "mention")
 
-[3.6-harmonia](3-sons-em-conjunto/3.6-harmonia/ "mention")
+[3.6-harmonia](3-sons-em-conjunto/3.6-harmonia "mention")
 
 * [3.6.1-triades.md](3-sons-em-conjunto/3.6-harmonia/3.6.1-triades.md "mention")
 * [3.6.2-acordes-de-setima.md](3-sons-em-conjunto/3.6-harmonia/3.6.2-acordes-de-setima.md "mention")
@@ -63,4 +63,10 @@ description: Princípios de ritmo, melodia e harmonia.
 ### 4. Palavras finais
 
 [conclusoes.md](4-palavras-finais/conclusoes.md "mention")
+
+
+
+Se gostar deste livro pode apoiar o projeto ao comprar-me um café! Obrigado 🚀
+
+<div align="left"><figure><img src=".gitbook/assets/bmc-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
