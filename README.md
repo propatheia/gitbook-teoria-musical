@@ -65,8 +65,6 @@ description: Princípios de ritmo, melodia e harmonia.
 [conclusoes.md](4-palavras-finais/conclusoes.md "mention")
 
 
-
 Se gostar deste livro pode apoiar o projeto ao comprar-me um café! Obrigado 🚀
 
-<div align="left"><figure><img src=".gitbook/assets/bmc-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
+[![buymeacoffee](.gitbook/assets/bmc-button.png)](https://buymeacoffee.com/marcoferra)
